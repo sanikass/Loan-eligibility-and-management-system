@@ -1,1 +1,1 @@
-# Loan-Eligibility-and-Management-System
+# loan-eligibility-and-management-system
